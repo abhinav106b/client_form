@@ -1,5 +1,6 @@
 # Getting Started with Create React App
-![Home page](screenshots/home_page.png)
+![alt text](https://github.com/abhinav106b/client_form/blob/main/screenshots/Client_form.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
