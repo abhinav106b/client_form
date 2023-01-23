@@ -1,5 +1,5 @@
 
-![alt text](https://github.com/abhinav106b/client_form/blob/main/screenshots/Client_form.png)
+![alt text](https://raw.githubusercontent.com/abhinav106b/client_form/main/screenshots/Client_form.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
