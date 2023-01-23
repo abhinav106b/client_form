@@ -1,5 +1,5 @@
 # Getting Started with Create React App
-
+![Home page](screenshots/home_page.png)
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
